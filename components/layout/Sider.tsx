@@ -206,7 +206,7 @@ class InternalSider extends React.Component<InternalSideProps, SiderState> {
             reverseArrow ? 'right' : 'left'
           }`}
         >
-          <Icon type="bars" />
+          <Icon type="book" />
         </span>
       ) : null;
     const iconObj = {
